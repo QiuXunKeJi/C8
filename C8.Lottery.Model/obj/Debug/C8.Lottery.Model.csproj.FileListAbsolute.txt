@@ -1,0 +1,11 @@
+F:\vs2012Project\C8\C8.Lottery.Model\bin\Debug\C8.Lottery.Model.dll
+F:\vs2012Project\C8\C8.Lottery.Model\bin\Debug\C8.Lottery.Model.pdb
+F:\vs2012Project\C8\C8.Lottery.Model\bin\Debug\C8.Lottery.Public.dll
+F:\vs2012Project\C8\C8.Lottery.Model\bin\Debug\Memcached.ClientLibrary.dll
+F:\vs2012Project\C8\C8.Lottery.Model\bin\Debug\log4net.dll
+F:\vs2012Project\C8\C8.Lottery.Model\bin\Debug\ICSharpCode.SharpZipLib.dll
+F:\vs2012Project\C8\C8.Lottery.Model\bin\Debug\C8.Lottery.Public.pdb
+F:\vs2012Project\C8\C8.Lottery.Model\bin\Debug\Memcached.ClientLibrary.pdb
+F:\vs2012Project\C8\C8.Lottery.Model\obj\Debug\C8.Lottery.Model.csprojResolveAssemblyReference.cache
+F:\vs2012Project\C8\C8.Lottery.Model\obj\Debug\C8.Lottery.Model.dll
+F:\vs2012Project\C8\C8.Lottery.Model\obj\Debug\C8.Lottery.Model.pdb

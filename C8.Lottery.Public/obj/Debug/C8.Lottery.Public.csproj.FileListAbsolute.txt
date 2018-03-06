@@ -1,0 +1,17 @@
+F:\0000000000000000------Lottery\小工具\HG1.5\C8.Lottery.Public\bin\Debug\C8.Lottery.Public.dll
+F:\0000000000000000------Lottery\小工具\HG1.5\C8.Lottery.Public\bin\Debug\C8.Lottery.Public.pdb
+F:\0000000000000000------Lottery\小工具\HG1.5\C8.Lottery.Public\bin\Debug\ICSharpCode.SharpZipLib.dll
+F:\0000000000000000------Lottery\小工具\HG1.5\C8.Lottery.Public\bin\Debug\log4net.dll
+F:\0000000000000000------Lottery\小工具\HG1.5\C8.Lottery.Public\bin\Debug\Memcached.ClientLibrary.dll
+F:\0000000000000000------Lottery\小工具\HG1.5\C8.Lottery.Public\bin\Debug\Memcached.ClientLibrary.pdb
+F:\0000000000000000------Lottery\小工具\HG1.5\C8.Lottery.Public\obj\Debug\C8.Lottery.Public.dll
+F:\0000000000000000------Lottery\小工具\HG1.5\C8.Lottery.Public\obj\Debug\C8.Lottery.Public.pdb
+F:\0000000000000000------Lottery\小工具\HG1.5\C8.Lottery.Public\obj\Debug\C8.Lottery.Public.csprojResolveAssemblyReference.cache
+F:\vs2012Project\C8\C8.Lottery.Public\bin\Debug\C8.Lottery.Public.dll
+F:\vs2012Project\C8\C8.Lottery.Public\bin\Debug\C8.Lottery.Public.pdb
+F:\vs2012Project\C8\C8.Lottery.Public\bin\Debug\ICSharpCode.SharpZipLib.dll
+F:\vs2012Project\C8\C8.Lottery.Public\bin\Debug\log4net.dll
+F:\vs2012Project\C8\C8.Lottery.Public\bin\Debug\Memcached.ClientLibrary.dll
+F:\vs2012Project\C8\C8.Lottery.Public\bin\Debug\Memcached.ClientLibrary.pdb
+F:\vs2012Project\C8\C8.Lottery.Public\obj\Debug\C8.Lottery.Public.dll
+F:\vs2012Project\C8\C8.Lottery.Public\obj\Debug\C8.Lottery.Public.pdb
